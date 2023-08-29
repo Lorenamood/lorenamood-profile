@@ -1,6 +1,8 @@
-<h3 align="center"> 🚀 Aqui presento mi perfil 🚀</h3>
-<h3 align="center"> Mi nombre es Lorena</h3>
-<h2 align="center">🔧 Soy Junior Web Full Stack y creativa.</h2> <br>
+<h3 align="center"> 🚧 Perfil WIP 🚧
+
+<h3 align="center"> :paintbrush: Aqui presento mi perfil :paintbrush:</h3>
+<h3 align="center">  Mi nombre es Lorena </h3>
+<h2 align="center">:small_orange_diamond:  Soy Junior Web Full Stack y creativa. :small_orange_diamond:</h2> <br>
 
 Desde pequeña he sido creativa, por eso decidí en su momento estudiar Artes aplicadas al Muro y Escultura. Me gusta la experimentación de cosas nuevas, me sirve sobretodo de aprendizaje y para aportar nuevas ideas.
 
@@ -10,8 +12,9 @@ Mi enfoque en el establecimiento de ambientes seguros y enriquecedores, así com
 
 Mi experiencia abarca un rango de edades que refleja la diversidad de desafíos y recompensas que el cuidado y la atención requieren.
 
-Por otro lado decidí hacer un cambio laboral hacia el desarrollo web porque me permitía ampliar nuevos horizontes y posibilidades.
-Me motiva aportar ideas, investigar cosas nuevas y aprender. 
+Por otro lado decidí hacer un cambio laboral hacia el desarrollo web porque me permitía ampliar nuevos horizontes y posibilidades.<br>
+:bulb: Me motiva aportar ideas, <br>
+:microscope: investigar cosas nuevas y aprender.  <br>
 En cuanto al trabajo en equipo creo que és un camino donde se plantean nuevos retos, ya que todas las personas somos diferentes y que de todos/das podemos aprender. 
 <h3 align="left">▸Conoce mis habilidades y perfil</h3>
 
