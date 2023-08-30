@@ -5,19 +5,13 @@
 <h2 align="center">:small_orange_diamond:  Soy Junior Web Full Stack y creativa. :small_orange_diamond:</h2> <br>
 
 
-<h4 align="center">Desde pequeña he sido creativa, por eso decidí en su momento estudiar <br> <h4 align="center">:paintbrush: Artes aplicadas al Muro y Escultura. :hammer_and_pick:<br> <h4 align="center">Me gusta la experimentación de cosas nuevas, me sirve sobretodo de aprendizaje y para aportar nuevas ideas. <br>
+<h4 align="center">Desde pequeña he sido creativa, por eso decidí en su momento estudiar  Artes aplicadas al Muro y Escultura.
+  
+<h4 align="center">Me gusta la experimentación de cosas nuevas, a lo largo de mi trayectoria, he tenido la oportunidad de desarrollar habilidades en el ámbito de la atención personalizada, enfocándome en grupos de personas con necesidades diversas. Estas experiencias me han permitido cultivar destrezas de empatía, comunicación efectiva y resolución de situaciones dinámicas.  
+  <h4 align="center">He tenido el privilegio de aprender a adaptarme a las demandas cambiantes y de crear conexiones significativas. Mi experiencia abarca un rango de edades que refleja la diversidad de desafíos.
 
-<p align="center" >Por otro lado a lo largo de mi trayectoria, he tenido la oportunidad de desarrollar habilidades en el ámbito de la atención personalizada, enfocándome en dos grupos de personas con necesidades diversas. Estas experiencias me han permitido cultivar destrezas de empatía, comunicación efectiva y resolución de situaciones dinámicas.
-
-Mi enfoque en el establecimiento de ambientes seguros y enriquecedores, así como mi compromiso con el apoyo y el bienestar individual, han sido una parte integral de mi desarrollo profesional. He tenido el privilegio de aprender a adaptarme a las demandas cambiantes y de crear conexiones significativas con quienes tuvo el honor de asistir.
-
-Mi experiencia abarca un rango de edades que refleja la diversidad de desafíos y recompensas que el cuidado y la atención requieren. </p>
-
-<p align="center">Por otro lado, decidí hacer un cambio laboral, empecé a estudiar Transformación Digital y economía circular para la Agenda 2030 y en este curso me inicié en con la librería de Python, pandas a tocar un poco de código, después de eso y una breve muestra de como funcionaba el AGILE, tomé la decisión de enfocarmehacia el desarrollo web porque me permitía ampliar nuevos horizontes y posibilidades..</p><br>
-<p align="center">:orange_circle:  <b></b>Actualmente sigo formandome en el bootcamp haciendo fullstack en FEMCodersF5 & Google </b> 🟣</p>
-<p align="center">:bulb: Me motiva aportar ideas,</p>
-<p align="center">:microscope: investigar cosas nuevas y aprender.</p>  </br>
-<p align="center">En cuanto al trabajo en equipo creo que és un camino donde se plantean nuevos retos, ya que todas las personas somos diferentes y que de todos/das podemos aprender. </p>
+   <h4 align="center"> Pero decidí hacer un cambio laboral y seguir ampliando mi mirada, mi creatividad y mis capacidades, empecé a estudiar Transformación Digital y economía circular para la Agenda 2030 y  me inicié con Python con la libreria <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='pandas' src='https://img.shields.io/badge/pandas-100000?style=flat&logo=pandas&logoColor=white&labelColor=141770&color=141770'/></a> , y las metodologías AGILE, y tomé la decisión de enfocarme hacia el desarrollo web, en el que llevo sumergida ya año y medio, primero estudiando lenguajes de programación Frontend y actualmente FullStack.</p>
+    
 <h3 align="left">▸Conoce mis habilidades y perfil</h3>
 
 
